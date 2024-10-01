@@ -1,4 +1,4 @@
-# Anti-stereotypical Predictive Text Suggestions Do Not Reliably Yield Anti-stereotypical Writing
+# [Anti-stereotypical Predictive Text Suggestions Do Not Reliably Yield Anti-stereotypical Writing](https://arxiv.org/abs/2409.20390)
 
 By: [Connor Baumler](https://ctbaumler.github.io/) `<baumler@cs.umd.edu>` and Hal Daumé III
 
